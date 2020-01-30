@@ -18,3 +18,8 @@ switch(keyboard_key){
 		x += spd 
 		break
 }
+
+
+if (global.stamina < 0){
+	draw_text(440, 0, "Not enough stamina");
+}

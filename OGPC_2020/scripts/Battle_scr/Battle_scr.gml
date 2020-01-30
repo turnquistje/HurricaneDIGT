@@ -2,7 +2,13 @@ switch (mpos)
 {
 	case 0:
 	{
-		enemy_hp -= 3;
+		//global.e_health -= 3;
+		if (global.stamina - 4 <= 0){
+			draw_text(450, 0, "Not Enough Stamina");
+		} else {
+			global.stamina -= 4;
+		}
+		
 		break;
 	}
 	

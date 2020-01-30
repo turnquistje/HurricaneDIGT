@@ -1,2 +1,2 @@
-
-spd = 4;
+global.stamina = 20;
+global.p_spd = 4;
