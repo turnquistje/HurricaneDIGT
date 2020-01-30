@@ -1,21 +1,21 @@
 switch(keyboard_key){
 	case ord("W"):
-		y -= spd  
+		y -= global.p_spd 
 		
 		
 		break
 	case ord("S"):
-		y += spd 
+		y += global.p_spd 
 		
 		
 		break
 	case ord("A"):
-		x -= spd 
+		x -= global.p_spd 
 		
 		break
 	case ord("D"):
 		
-		x += spd 
+		x += global.p_spd
 		break
 }
 
