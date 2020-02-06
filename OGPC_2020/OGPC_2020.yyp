@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "031dde6f-db55-468e-905d-9ae0cda231c4",
+            "Value": {
+                "id": "2426a7b2-f10e-427b-945c-c3043c03ef3e",
+                "resourcePath": "objects\\Battle_O\\Battle_O.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "041f2606-0373-4c68-ae6d-1e8bfade80b1",
             "Value": {
                 "id": "aa0b8fa4-0a47-4994-a0c5-2eb4eec929db",
@@ -52,14 +60,6 @@
                 "id": "7de6b1b6-1e61-4d13-8b1f-a0095cb1d70c",
                 "resourcePath": "views\\10154bb1-9629-4b51-b137-439c10b7cc64.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "14b36fc8-2bea-4990-ae86-fb17fb422d87",
-            "Value": {
-                "id": "32761304-eccd-4134-897f-486d9caf8ca6",
-                "resourcePath": "scripts\\Battle_scr\\Battle_scr.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "69fe0ec2-65ff-4a2f-9792-a76a56bbe163",
+            "Value": {
+                "id": "60978bf7-2933-48ef-9f92-f51a2d6be57a",
+                "resourcePath": "sprites\\TextBox_S\\TextBox_S.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6a246578-d803-47b8-8790-720ff6730106",
             "Value": {
                 "id": "272df105-8241-45e0-890b-0c0a3f1872d1",
@@ -212,14 +220,6 @@
                 "id": "5ebe49ba-95a2-4bbc-9cf0-bab444796f85",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
-            }
-        },
-        {
-            "Key": "8b192cde-ff6f-447d-aef1-fc314e4d8927",
-            "Value": {
-                "id": "4b208218-e119-4c00-8ab1-07af1ae238f6",
-                "resourcePath": "objects\\Battle_O\\Battle_O.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -338,7 +338,7 @@
             "Key": "be790c6f-392b-4a80-9423-89279c7c441e",
             "Value": {
                 "id": "db5ac8a2-757c-46b4-a7b7-cc20bd24d2f1",
-                "resourcePath": "sprites\\sprite5\\sprite5.yy",
+                "resourcePath": "sprites\\Arrow_S\\Arrow_S.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -448,7 +448,7 @@
         }
     ],
     "script_order": [
-        "14b36fc8-2bea-4990-ae86-fb17fb422d87"
+        
     ],
     "tutorial": ""
 }
