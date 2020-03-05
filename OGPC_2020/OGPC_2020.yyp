@@ -533,6 +533,14 @@
                 "resourcePath": "rooms\\Battle\\Battle.yy",
                 "resourceType": "GMRoom"
             }
+        },
+        {
+            "Key": "ffce8318-8694-4c7c-aea3-f5660fa0266e",
+            "Value": {
+                "id": "fb2a9764-f0e8-495e-b930-5c23d6c747b3",
+                "resourcePath": "sprites\\BrickWall_S1\\BrickWall_S1.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
