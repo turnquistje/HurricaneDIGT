@@ -1,24 +1,34 @@
 {
-    "id": "9a057a7c-5346-4996-9085-5fc9d6f567d4",
+    "id": "cc1ad8fc-5a22-4499-9746-4797d6407d15",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "wall_O",
+    "name": "MazeCamera_O1",
     "eventList": [
         {
-            "id": "ee63d21c-2456-45e0-85db-26d2ab5ab1cb",
+            "id": "c6cbfa1d-ca8f-4dd4-8676-77f745503369",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "caa0d381-f5cf-40c7-a860-2c9121b85a88",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "9a057a7c-5346-4996-9085-5fc9d6f567d4"
+            "eventtype": 0,
+            "m_owner": "cc1ad8fc-5a22-4499-9746-4797d6407d15"
+        },
+        {
+            "id": "3e8b2a66-740c-47ec-af4c-265ae6e1bd56",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "cc1ad8fc-5a22-4499-9746-4797d6407d15"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
-    "persistent": false,
+    "persistent": true,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,
@@ -32,7 +42,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "efcdf981-783b-4e88-82b8-09f808892030",
+    "solid": false,
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

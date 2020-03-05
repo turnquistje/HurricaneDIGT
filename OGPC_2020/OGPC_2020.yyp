@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "93961f23-8cc1-4af0-90ab-6947cef0d7e2",
+            "Value": {
+                "id": "facf9f11-ef07-4c4f-8204-c5a7b15877d8",
+                "resourcePath": "rooms\\MainMenu\\MainMenu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "944f8092-71a9-47cc-ab2b-0ec274de4cde",
             "Value": {
                 "id": "bdd0090e-2725-45fd-9640-a8256f34d21f",
@@ -427,6 +435,14 @@
             "Value": {
                 "id": "92594cb1-6df4-43b6-a85a-be53d916b012",
                 "resourcePath": "objects\\Player_O\\Player_O.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cc1ad8fc-5a22-4499-9746-4797d6407d15",
+            "Value": {
+                "id": "da9bf308-aa04-44cf-84a5-e96b67dee1f2",
+                "resourcePath": "objects\\MazeCamera_O1\\MazeCamera_O1.yy",
                 "resourceType": "GMObject"
             }
         },
