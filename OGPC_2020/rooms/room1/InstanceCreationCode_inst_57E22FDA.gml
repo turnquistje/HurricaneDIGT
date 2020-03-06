@@ -1,0 +1,1 @@
+global.BattleEnemy_S = Enemy2_S;

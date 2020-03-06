@@ -47,4 +47,4 @@ draw_text(hpX + shakeX, hpY + shakeY, string(playerHP) + " / " + string(playerMA
 mx = surface_get_width(application_surface) / 2;
 my = surface_get_height(application_surface) / 2;
 
-draw_sprite(Enemy_S, 0, mx, my);
+draw_sprite(global.BattleEnemy_S, 0, mx, my);
